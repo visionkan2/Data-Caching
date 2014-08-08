@@ -1,14 +1,9 @@
+"""
+    Author:Weixuan Kan
+    E-mail:visionkan@gmail.com
+"""
 #!/bin/bash
 #script to launch on a machine to set up the client of the data caching benchmark
-
-#WARNING ! please dont forget to modify SERVER variable before launching !!!
-
-
-#if the script ends correctly, the client is set up
-
-#config
-#works correctly on a ubuntu server 13.04 large instance
-
 #exit on error status
 set -e 
 
